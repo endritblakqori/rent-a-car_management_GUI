@@ -1,9 +1,6 @@
 customtkinter
 pandas
-python3-tkcalendar
-tkinter
-hashlib
-tkinter.messagebox
+tk
 datetime
 mysql-connector-python
-dateutil
+python-dateutil
