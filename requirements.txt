@@ -1,6 +1,6 @@
 customtkinter
 pandas
-tkcalendar
+python3-tkcalendar
 tkinter
 hashlib
 tkinter.messagebox
