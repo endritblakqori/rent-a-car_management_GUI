@@ -6,3 +6,4 @@ hashlib
 tkinter.messagebox
 datetime
 mysql-connector-python
+dateutil
